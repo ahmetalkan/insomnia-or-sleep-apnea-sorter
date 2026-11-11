@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insomnia-or-sleep-apnea-sorter.onrender.com/sitemap.xml
